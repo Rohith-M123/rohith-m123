@@ -1,7 +1,7 @@
 
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hey 👋, I'm Rohith Yadav</h1>
+<h1 align="center">Hey 👋, I'm Rohith Molli</h1>
 
 <h3 align="center">
   Java Developer | Full-Stack Developer | AI Enthusiast
