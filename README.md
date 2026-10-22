@@ -92,7 +92,7 @@ A web-based application designed to simplify college event organization and stud
 
 **Tech Stack**
 
-`Java` `JSP` `Servlets` `MySQL`
+`react` `Servlets` `SpringBoot` `mongodb` `Java` `JSP` `Firebase auth`
 
 ---
 
