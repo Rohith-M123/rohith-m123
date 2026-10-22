@@ -1,185 +1,221 @@
-<h1 align="center">Hi 👋, I'm Rohith</h1>
-<h3 align="center">Java Developer | AI Enthusiast | Content Creator</h3>
+
+<!-- ===================== HEADER ===================== -->
+
+<h1 align="center">Hey 👋, I'm Rohith Yadav</h1>
+
+<h3 align="center">
+  Java Developer | Full-Stack Developer | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;AI+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Applications;Java+%7C+Full-Stack+Development;Exploring+Generative+AI;Turning+Ideas+Into+Projects" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Rohith-M123">
+    <img src="https://img.shields.io/badge/GitHub-Rohith--M123-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:mollirohit1020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-💻 Passionate Developer  
-📚 Computer Science Student  
-⚡ Building real-world projects using Java, Python & AI  
-🧠 Exploring Full Stack Development and Generative AI  
-🎬 Content Creator interested in storytelling & entertainment  
+- 🎓 Computer Science student passionate about software development.
+- 💻 Interested in Java, backend development, and full-stack applications.
+- 🛒 Building practical web applications with real-world features.
+- 🤖 Exploring Artificial Intelligence and Generative AI.
+- 🧩 Enjoy solving programming problems and learning new technologies.
+- 🎯 Focused on improving my development skills through hands-on projects.
 
----
-
-# 🚀 Featured Projects
-
-## 🌾 CU-Harvest
-Smart agriculture and harvesting management platform designed to help improve farming operations and resource monitoring.
-
-### Features
-- Crop monitoring
-- Harvest tracking
-- User-friendly dashboard
-- Data management system
-
-### Tech Used
-`Java` `MySQL` `HTML` `CSS`
+> **My goal:** Build useful, reliable, and user-friendly applications while continuously learning and improving.
 
 ---
 
-## 🎉 Campus Event Management System
-A web-based system developed to manage college events efficiently.
+## 🚀 Featured Projects
 
-### Features
-- Event registration
-- Student participation tracking
-- Event scheduling
-- Admin management panel
+### 🛒 1. CU Harvest | Blinkit-Inspired Grocery Delivery
 
-### Tech Used
+A grocery delivery web application inspired by Blinkit, focused on convenient online shopping and flexible delivery scheduling.
+
+**Key Features**
+
+- 🛍️ Browse grocery products and manage the shopping cart.
+- 📅 **Scheduled Delivery:** Select a preferred delivery date and time slot up to one week in advance.
+- 📦 Order placement and order management.
+- 🚚 Rider assignment and delivery status management.
+- 👤 Separate customer, admin, and rider functionality.
+- 📧 Email notifications for order updates.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+<p>
+  <a href="https://github.com/Rohith-M123">
+    <img src="https://img.shields.io/badge/View_Projects-181717?style=for-the-badge&logo=github" alt="View GitHub projects"/>
+  </a>
+</p>
+
+---
+
+### 🤖 2. Generative AI Chatbot
+
+An AI-powered chatbot project exploring conversational interactions and image understanding.
+
+**Key Features**
+
+- 💬 GPT-style conversational interface.
+- 🖼️ Image analysis and image-based questions.
+- 🧠 AI-generated responses.
+- ⚡ Interactive user experience.
+
+**Tech Stack**
+
+`Python` `FastAPI` `OpenCV` `Generative AI APIs`
+
+---
+
+### 🎉 3. Campus Event Management System
+
+A web-based application designed to simplify college event organization and student participation.
+
+**Key Features**
+
+- 📝 Event registration.
+- 📅 Event scheduling and management.
+- 🎓 Student participation tracking.
+- 🔐 Administrative controls.
+
+**Tech Stack**
+
 `Java` `JSP` `Servlets` `MySQL`
 
 ---
 
-## 🌦️ Weather Forecast Application
-A weather forecasting application using Weather API to provide live weather updates.
+### 🌦️ 4. Weather Forecast Application
 
-### Features
-- Real-time weather data
-- Temperature and humidity tracking
-- City-based search
-- Responsive UI
+A weather application that retrieves current weather information for searched cities.
 
-### Tech Used
-`JavaScript` `Weather API` `HTML` `CSS`
+**Key Features**
 
----
+- 🌍 City-based weather search.
+- 🌡️ Temperature and humidity information.
+- ☁️ Live weather data through an API.
+- 📱 Responsive user interface.
 
-# 🤖 Generative AI Chatbot
+**Tech Stack**
 
-An AI-powered chatbot project with multiple intelligent features.
-
-## 🖼️ Image Analyzer
-AI system capable of analyzing uploaded images and generating insights.
-
-### Features
-- Image understanding
-- Object analysis
-- AI-generated responses
-
-### Tech Used
-`Python` `OpenCV` `Generative AI`
+`JavaScript` `HTML` `CSS` `Weather API`
 
 ---
 
-## 💬 Normal GPT Chatbot
-Conversational chatbot inspired by GPT-style interactions.
+### 🏠 5. Hostel Management System
 
-### Features
-- Human-like conversations
-- Context-based responses
-- Interactive chat interface
+A Java-based desktop application designed to simplify hostel administration.
 
-### Tech Used
-`Python` `FastAPI` `AI APIs`
+**Key Features**
 
----
+- 🛏️ Student room allocation.
+- 📋 Attendance management.
+- 🗂️ Hostel record management.
+- 🖥️ Desktop interface for administrative tasks.
 
-## 🏠 Hostel Management System
-A management system developed to simplify hostel administration tasks.
+**Tech Stack**
 
-### Features
-- Student room allocation
-- Attendance management
-- Hostel records maintenance
-- Admin dashboard
-
-### Tech Used
-`Java` `MySQL` `Swing`
+`Java` `Swing` `MySQL`
 
 ---
-# 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🧰 Technical Skills
 
----
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Java, Python, C, JavaScript and TypeScript"/>
+</p>
 
 ### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap" alt="HTML, CSS, React, Angular and Bootstrap"/>
+</p>
 
-### ⚙️ Backend & Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+### ⚙️ Backend Development
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" alt="Node.js, Express, Spring and FastAPI"/>
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase,supabase" alt="MySQL, MongoDB, PostgreSQL, SQLite, Firebase and Supabase"/>
+</p>
 
-### 🤖 AI / Data Science
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🤖 AI & Data Science
 
----
-
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" alt="Python, OpenCV and PyTorch"/>
+</p>
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea" alt="Git, GitHub, Postman, Figma, VS Code and IntelliJ IDEA"/>
+</p>
+
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mollirohit1020@gmail.com)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-M123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-M123&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rohith-M123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rohith-M123/Rohith-M123/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rohith-M123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mollirohit1020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <!-- Replace the URL below with your actual LinkedIn profile -->
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🚀 “Learning. Building. Improving.”
+  <img src="https://komarev.com/ghpvc/?username=Rohith-M123&style=for-the-badge&color=00D9FF" alt="Profile views"/>
+</p>
+
+<h3 align="center">
+  "Learn consistently. Build creatively. Improve every day."
+</h3>
+
+<p align="center">
+  Thanks for visiting my profile!
 </p>
